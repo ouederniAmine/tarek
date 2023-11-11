@@ -1,0 +1,988 @@
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-K6J4RM3F42
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\index.htm
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/2-days-trekking-tour-from-marrakech-to-toubkal.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\2-days-trekking-tour-from-marrakech-to-toubkal.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/3-day-atlas-trekking-tour-from-marrakech-to-toubkal.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\3-day-atlas-trekking-tour-from-marrakech-to-toubkal.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/3-day-private-tour-from-marrakech-to-merzouga-camel-ride-and-fes.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\3-day-private-tour-from-marrakech-to-merzouga-camel-ride-and-fes.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/3-day-sahara-tour-from-marrakech-to-merzouga-desert.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\3-day-sahara-tour-from-marrakech-to-merzouga-desert.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/4-day-trek-from-marrakech-to-climb-toubkal.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\4-day-trek-from-marrakech-to-climb-toubkal.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/4-daysl-tour-from-marrakech-to-merzouga-desert-camp.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\4-daysl-tour-from-marrakech-to-merzouga-desert-camp.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/adventure-5-days-merzouga-tour-from-fes-to-sahara-desert-and-marrakech.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\adventure-5-days-merzouga-tour-from-fes-to-sahara-desert-and-marrakech.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/adventure-activities.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\adventure-activities.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/airport-and-city-private-transfer.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\airport-and-city-private-transfer.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/atlas-trekking-guided-tours-and-treks-to-toubkal.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\atlas-trekking-guided-tours-and-treks-to-toubkal.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/camel-ride.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\camel-ride.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/chez-ali-show.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\chez-ali-show.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/contact-reservation.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\contact-reservation.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.marrakechexcursion.com/full-width-images/01.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\full-width-images\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/full-width-images/02.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\full-width-images\02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/full-width-images/03.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\full-width-images\03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/full-width-slide-styles.css
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\full-width-slide-styles.css
+Content Type: text/css
+
+Uri: https://www.marrakechexcursion.com/guided-3-days-desert-tour-from-fes-to-merzouga-and-marrakech.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\guided-3-days-desert-tour-from-fes-to-merzouga-and-marrakech.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/guided-excursions-and-marrakech-private-day-trips.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\guided-excursions-and-marrakech-private-day-trips.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/guided-private-4x4day-trip-to-3-valleys-in-atlas-mountains.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\guided-private-4x4day-trip-to-3-valleys-in-atlas-mountains.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/guided-private-4x4day-trip-to-ourika-valley-in-atlas.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\guided-private-4x4day-trip-to-ourika-valley-in-atlas.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/guided-private-day-trip-to-agafay-desert-from-marrakech.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\guided-private-day-trip-to-agafay-desert-from-marrakech.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/guided-private-day-trip-to-ait-benhaddou-and-ouarzazate.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\guided-private-day-trip-to-ait-benhaddou-and-ouarzazate.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/guided-private-day-trip-to-essaouira-on-atlantic-coast.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\guided-private-day-trip-to-essaouira-on-atlantic-coast.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/how-far-is-ouzoud-waterfalls-from-marrakech.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\how-far-is-ouzoud-waterfalls-from-marrakech.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/images/appl.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\images\appl.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/images/ch.jpeg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\images\ch.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/images/frm.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\images\frm.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/images/whtp.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\images\whtp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/imlil-day-trip-from-marrakech.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\imlil-day-trip-from-marrakech.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/jquery.skippr.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\jquery.skippr.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/location-4x4-avec-chauffeur-a-marrakech.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\location-4x4-avec-chauffeur-a-marrakech.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/logos/whatsapp-button.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\logos\whatsapp-button.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/marrakech-to-ouzoud-waterfalls-tours-bus.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\marrakech-to-ouzoud-waterfalls-tours-bus.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/morocco-5-days-tour-from-marrakech-to-dades-and-merzouga-desert.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\morocco-5-days-tour-from-marrakech-to-dades-and-merzouga-desert.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/morocco-private-6-days-tour-from-marrakech-to-sahara-desert.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\morocco-private-6-days-tour-from-marrakech-to-sahara-desert.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/private-4-days-private-tour-from-fes-to-desert-and-marrakech.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\private-4-days-private-tour-from-fes-to-desert-and-marrakech.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/private-and-guided-marrakech-desert-tours-every-day.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\private-and-guided-marrakech-desert-tours-every-day.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/private-tours-in-morocco.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\private-tours-in-morocco.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/quad-and-buggy-ride.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\quad-and-buggy-ride.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/sahara-guided-tours-from-fes-to-desert-merzouga.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\sahara-guided-tours-from-fes-to-desert-merzouga.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/tour-2-days-from-marrakech-to-desert-in-zagora-camel-trekking.html
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\tour-2-days-from-marrakech-to-desert-in-zagora-camel-trekking.html
+Content Type: text/html
+
+Uri: https://www.marrakechexcursion.com/wpimages/img-guided-private-day-trip-to-agafay-desert-from-marrakech-01.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\img-guided-private-day-trip-to-agafay-desert-from-marrakech-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/img-guided-private-day-trip-to-agafay-desert-from-marrakech-02.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\img-guided-private-day-trip-to-agafay-desert-from-marrakech-02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/img-guided-private-day-trip-to-agafay-desert-from-marrakech-03.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\img-guided-private-day-trip-to-agafay-desert-from-marrakech-03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/img-guided-private-day-trip-to-agafay-desert-from-marrakech-04.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\img-guided-private-day-trip-to-agafay-desert-from-marrakech-04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/img-guided-private-day-trip-to-agafay-desert-from-marrakech.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\img-guided-private-day-trip-to-agafay-desert-from-marrakech.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp00a75200_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp00a75200_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp04272a12_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp04272a12_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp07298d65_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp07298d65_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0748de0d_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0748de0d_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0b885e2c_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0b885e2c_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0d6362c4_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0d6362c4_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0dba827f_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0dba827f_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0dbfd541_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0dbfd541_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0e353492_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0e353492_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0f14c465_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0f14c465_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp0fc777be_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp0fc777be_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp14ac1c5a_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp14ac1c5a_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp14cc7eb5_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp14cc7eb5_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp18d07398_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp18d07398_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp1dd40f45_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp1dd40f45_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp1e87866e_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp1e87866e_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp1fcd98a7_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp1fcd98a7_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp2122dc50_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp2122dc50_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp2191383b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp2191383b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp2229796d_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp2229796d_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp22ce77cc_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp22ce77cc_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp23752b20_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp23752b20_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp248ee0c7_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp248ee0c7_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp24ce7038_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp24ce7038_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp2764688a_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp2764688a_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp27878160_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp27878160_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp285f20c8_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp285f20c8_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp28e5dfa6_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp28e5dfa6_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp28ea572e_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp28ea572e_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp2ea232aa_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp2ea232aa_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp2f6af99c_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp2f6af99c_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp318a80a1_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp318a80a1_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp323df757_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp323df757_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp36678739_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp36678739_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp38c6fb75_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp38c6fb75_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3995d0b8_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3995d0b8_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3a58f249_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3a58f249_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3aca1084_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3aca1084_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3c696e07_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3c696e07_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3d823894_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3d823894_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3e52931c_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3e52931c_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3f154b56_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3f154b56_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp3fdef128_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp3fdef128_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp41bb7e47_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp41bb7e47_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp4319c049_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp4319c049_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp432e07db_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp432e07db_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp45805f96_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp45805f96_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp45f6cdb8_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp45f6cdb8_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp46a19ca7_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp46a19ca7_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp47616bd5_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp47616bd5_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp4783f573_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp4783f573_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp488e898e_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp488e898e_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp4b18dd5a_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp4b18dd5a_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp4bc84386_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp4bc84386_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp4ce35d49_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp4ce35d49_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp4d49fa2d_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp4d49fa2d_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp50f75acb_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp50f75acb_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5132e4c5_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5132e4c5_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp517282c8_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp517282c8_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5272b679_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5272b679_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp54f1a360_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp54f1a360_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5554f982_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5554f982_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp55e78bda_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp55e78bda_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp56ad6be2_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp56ad6be2_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp57f7189f_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp57f7189f_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5854bcf0_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5854bcf0_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp592dda8c_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp592dda8c_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5accb030_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5accb030_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5cb8979b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5cb8979b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5cd8914b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5cd8914b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5f8671ab_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5f8671ab_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5f8e5d08_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5f8e5d08_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp5fd45cf5_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp5fd45cf5_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp60026b01_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp60026b01_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp6049c29c_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp6049c29c_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp62e00c78_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp62e00c78_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp649782b6_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp649782b6_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp6522e479_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp6522e479_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp665fa22d_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp665fa22d_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp69b49ec9_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp69b49ec9_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp6ae380e2_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp6ae380e2_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp6b26631e_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp6b26631e_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp6d1bc514_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp6d1bc514_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp6f43f04e_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp6f43f04e_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp6f6da5fa_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp6f6da5fa_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp720dd652_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp720dd652_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp74b34c88_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp74b34c88_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp7732f50d_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp7732f50d_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp77a7a210_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp77a7a210_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp7fd237aa_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp7fd237aa_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp80bce35c_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp80bce35c_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp80f3f543_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp80f3f543_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp81002636_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp81002636_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8300c650_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8300c650_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8514b39b_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8514b39b_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp857e0e54_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp857e0e54_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp87d2ea94_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp87d2ea94_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp894fed5f_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp894fed5f_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp89be821d_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp89be821d_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp89fd8328_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp89fd8328_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8ad0d252_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8ad0d252_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8ca114dc_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8ca114dc_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8cd487d1_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8cd487d1_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8cd9ac6f_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8cd9ac6f_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8d7cec02_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8d7cec02_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp8fe08633_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp8fe08633_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp90fd68c3_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp90fd68c3_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp9511a14b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp9511a14b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp951cc4ec_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp951cc4ec_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp9969a006_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp9969a006_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp9d5164ff_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp9d5164ff_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp9dd04f15_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp9dd04f15_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp9e622129_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp9e622129_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wp9f403c06_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wp9f403c06_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpa26dd720_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpa26dd720_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpa42ed220_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpa42ed220_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpa6451bc3_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpa6451bc3_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpa73e8853_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpa73e8853_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpa7732696_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpa7732696_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpa9927a45_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpa9927a45_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpab390f44_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpab390f44_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpabb647f2_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpabb647f2_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpad441fd4_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpad441fd4_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpb07b90e2_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpb07b90e2_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpb0e7bfa0_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpb0e7bfa0_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpb78f115d_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpb78f115d_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpbaeeb010_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpbaeeb010_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpbb77e879_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpbb77e879_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpbff8f366_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpbff8f366_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpc0e8e940_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpc0e8e940_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpc22a575b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpc22a575b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpc68f4f74_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpc68f4f74_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpc70a23d8_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpc70a23d8_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpc72016a4_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpc72016a4_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpc804b44d_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpc804b44d_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpcaf4c74f_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpcaf4c74f_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpcbf4ec7a_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpcbf4ec7a_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpcc314e6c_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpcc314e6c_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpcc93f57a_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpcc93f57a_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpcf8ed8ad_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpcf8ed8ad_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd036c308_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd036c308_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd03bbe94_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd03bbe94_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd4b33273_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd4b33273_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd62fdca8_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd62fdca8_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd746125d_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd746125d_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd7c96405_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd7c96405_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd8e7ccf9_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd8e7ccf9_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpd90ad8f1_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpd90ad8f1_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpda18f679_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpda18f679_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe0ad9954_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe0ad9954_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe124390b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe124390b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe23b9c61_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe23b9c61_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe2e00ff8_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe2e00ff8_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe334ae87_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe334ae87_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe43c1f9a_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe43c1f9a_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe4682f64_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe4682f64_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe5cf88c0_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe5cf88c0_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe6518419_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe6518419_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe6dd4975_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe6dd4975_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe7fe347c_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe7fe347c_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe8241fb1_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe8241fb1_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpe90fe3e4_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpe90fe3e4_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpec7c9571_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpec7c9571_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpec953577_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpec953577_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wped767510_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wped767510_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpef9e4a94_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpef9e4a94_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpf2f0469c_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpf2f0469c_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpf3357b05_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpf3357b05_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpf3e20e8b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpf3e20e8b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpf46502de_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpf46502de_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpf51c5ce0_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpf51c5ce0_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpf9bf42ab_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpf9bf42ab_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpfb31328b_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpfb31328b_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpfb5246a7_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpfb5246a7_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpfc75ec5e_06.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpfc75ec5e_06.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpfe14efa2_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpfe14efa2_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpimages/wpfef2a6d8_05_06.jpg
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpimages\wpfef2a6d8_05_06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.marrakechexcursion.com/wpscripts/datepicker.css
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\datepicker.css
+Content Type: text/css
+
+Uri: https://www.marrakechexcursion.com/wpscripts/datepicker.i18n.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\datepicker.i18n.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/wpscripts/datepickerui.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\datepickerui.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpscripts/date_1-datepickerui.png
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\date_1-datepickerui.png
+Content Type: image/png
+
+Uri: https://www.marrakechexcursion.com/wpscripts/jquery.datepicker.style.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\jquery.datepicker.style.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/wpscripts/jquery.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/wpscripts/jquery.stylesheet.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\jquery.stylesheet.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/wpscripts/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/wpscripts/jquery.wputils.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\jquery.wputils.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/wpscripts/jqueryui.js
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\jqueryui.js
+Content Type: application/javascript
+
+Uri: https://www.marrakechexcursion.com/wpscripts/wp9d8219fa.ttf
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\wp9d8219fa.ttf
+Content Type: font/ttf
+
+Uri: https://www.marrakechexcursion.com/wpscripts/wpe3c43337.ttf
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\wpe3c43337.ttf
+Content Type: font/ttf
+
+Uri: https://www.marrakechexcursion.com/wpscripts/wpstyles.css
+File Name: C:\Downloaded Web Sites\www.marrakechexcursion.com\wpscripts\wpstyles.css
+Content Type: text/css
+
